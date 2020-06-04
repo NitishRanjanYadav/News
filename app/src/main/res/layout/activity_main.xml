@@ -7,7 +7,7 @@
     <data>
         <variable
             name="vm"
-            type="com.nitish.doubtnutassignment.viewmodel.ArticleListViewModel"/>
+            type="com.nitish.news.viewmodel.ArticleListViewModel"/>
     </data>
 
     <RelativeLayout

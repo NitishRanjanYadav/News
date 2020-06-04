@@ -7,7 +7,7 @@
 
         <variable
             name="vm"
-            type="com.nitish.doubtnutassignment.model.ArticlesItem" />
+            type="com.nitish.news.model.ArticlesItem" />
     </data>
 
     <androidx.coordinatorlayout.widget.CoordinatorLayout
